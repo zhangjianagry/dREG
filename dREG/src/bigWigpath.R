@@ -1,1 +1,0 @@
-cat(find.package("bigWig"))
